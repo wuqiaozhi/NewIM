@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\Android\AndroidProject\BmobNewIM_v2.0.9_\BmobNewIM_v2.0.9\NewIM\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_160e21806fe4fcbe2b20c34d1bbde421f69a17ae.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidProject\BmobNewIM_v2.0.9_\BmobNewIM_v2.0.9\NewIM\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84f756ff6298797b9bc5d1f6a27ad4dbaabcb7cf">
+        <dex dex="D:\Android\AndroidProject\BmobNewIM_v2.0.9_\BmobNewIM_v2.0.9\NewIM\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8570c0c5ef7ff6c50eff6f31414b760422e373c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keqin Chen\.android\build-cache\8c243494b743b2012180a50ba8a4cec488fb083a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\Android\AndroidProject\BmobNewIM_v2.0.9_\BmobNewIM_v2.0.9\NewIM\app\build\intermediates\pre-dexed\debug\classes_6fc01dbffb48787919f03d3ea270a260869f40ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keqin Chen\.android\build-cache\bfc67c82487b6b33f945973776e8efd81520c571\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\Android\AndroidProject\BmobNewIM_v2.0.9_\BmobNewIM_v2.0.9\NewIM\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_b5a3adc19c16032969afa73e2d9abe4763eeb0e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keqin Chen\.android\build-cache\945817417a410660d8525deda6342cf91e64a729\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="D:\Android\AndroidProject\BmobNewIM_v2.0.9_\BmobNewIM_v2.0.9\NewIM\app\build\intermediates\pre-dexed\debug\classes_7362eb24e6e5609107300b4e5f807ecc0c013b0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keqin Chen\.android\build-cache\ce585462f6b52797792d3f29eb5bb51170ce076a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\Android\AndroidProject\BmobNewIM_v2.0.9_\BmobNewIM_v2.0.9\NewIM\app\build\intermediates\pre-dexed\debug\classes_7804942d381a37467892945620adc83ffcc55595.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keqin Chen\.android\build-cache\bfc67c82487b6b33f945973776e8efd81520c571\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\Android\AndroidProject\BmobNewIM_v2.0.9_\BmobNewIM_v2.0.9\NewIM\app\build\intermediates\pre-dexed\debug\classes_373c906babf4983a2cdadc47d567d601fdf1babb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidProject\BmobNewIM_v2.0.9_\BmobNewIM_v2.0.9\NewIM\app\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\Android\AndroidProject\BmobNewIM_v2.0.9_\BmobNewIM_v2.0.9\NewIM\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.5_d9bb1cb8adbc569d516560659efe6bd34b011e7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidProject\BmobNewIM_v2.0.9_\BmobNewIM_v2.0.9\NewIM\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Android\AndroidProject\BmobNewIM_v2.0.9_\BmobNewIM_v2.0.9\NewIM\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_24d48aea7e51494eb829ad4f7b181f9ae8e4e42b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Keqin Chen\.android\build-cache\72cc2cca82845759368479565673d9d99a2aba5f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\Android\AndroidProject\BmobNewIM_v2.0.9_\BmobNewIM_v2.0.9\NewIM\app\build\intermediates\pre-dexed\debug\classes_69cfa1238aefdecf7d1353dc7bec56401757c3de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\AndroidProject\BmobNewIM_v2.0.9_\BmobNewIM_v2.0.9\NewIM\app\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\Android\AndroidProject\BmobNewIM_v2.0.9_\BmobNewIM_v2.0.9\NewIM\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_d9bb1cb8adbc569d516560659efe6bd34b011e7b.jar" />
+    </item>
+
+</items>
